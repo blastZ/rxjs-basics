@@ -12,3 +12,5 @@ Learning RxJS Basics, based on RxJS 6.x.
   - from
   - interval
   - timer
+- common-operators
+  - map
