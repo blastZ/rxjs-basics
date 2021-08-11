@@ -15,3 +15,4 @@ Learning RxJS Basics, based on RxJS 6.x.
 - common-operators
   - map
   - filter
+  - reduce
