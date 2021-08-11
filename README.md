@@ -16,3 +16,4 @@ Learning RxJS Basics, based on RxJS 6.x.
   - map
   - filter
   - reduce
+  - scan
